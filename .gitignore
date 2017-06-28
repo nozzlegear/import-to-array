@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# Ignore built files
+index.d.ts
+index.js
