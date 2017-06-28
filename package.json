@@ -1,0 +1,33 @@
+{
+  "name": "import-to-array",
+  "version": "1.0.0",
+  "description": "A small utility function that converts ES6 import objects to an array of its own property values, complete with TypeScript defintions.",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "build": "tsc -p .",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozzlegear/import-to-array.git"
+  },
+  "keywords": [
+    "typescript",
+    "import",
+    "array"
+  ],
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozzlegear/import-to-array/issues"
+  },
+  "homepage": "https://github.com/nozzlegear/import-to-array#readme"
+}
