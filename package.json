@@ -12,9 +12,6 @@
   "devDependencies": {
     "typescript": "^2.4.1"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nozzlegear/import-to-array.git"
